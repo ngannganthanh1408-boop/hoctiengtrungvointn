@@ -1,0 +1,69 @@
+{
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Xin chào",
+      "phonetics": ["Khái quát ngữ âm tiếng Hán"],
+      "functions": ["Chào hỏi"],
+      "chinese_notes": ["Giới thiệu sơ lược các nét chữ Hán", "Số thứ tự từ 1 đến 10"]
+    },
+    {
+      "id": 2,
+      "title": "Bạn tên là gì?",
+      "phonetics": ["e, ai, ao, ou, an, en, ang, eng"],
+      "functions": ["Hỏi và giới thiệu tên, quốc tịch"],
+      "notes": ["Bộ nhân đứng, nữ, khẩu", "Chữ: 人, 你, 好, 叫, 名"]
+    },
+    {
+      "id": 3,
+      "title": "Rất vui khi được gặp bạn",
+      "phonetics": ["ji, qi, xi, zi, ci, si, zhi, chi, shi, ri"],
+      "functions": ["Hỏi họ tên, trao đổi danh thiếp"],
+      "notes": ["Bộ tiểu, ngôn", "Chữ: 小, 请, 问, 认, 识"]
+    },
+    {
+      "id": 4,
+      "title": "Bạn đi đâu?",
+      "phonetics": ["ia, ie, iao, iou(iu), ian, in, iang, ing, iong"],
+      "functions": ["Đi xe taxi và hỏi giá tiền"],
+      "notes": ["Bộ tịch, thổ, quai xước", "Chữ: 多, 块, 场, 远, 近"]
+    },
+    {
+      "id": 5,
+      "title": "Bạn muốn ăn gì?",
+      "phonetics": ["u, ua, uo, uai, uei(ui), uan, uen(un), uang, ü, üe, üan, ün"],
+      "functions": ["Gọi món"],
+      "notes": ["Bộ thảo, tâm đứng, thực", "Chữ: 吃, 菜, 快, 饭, 饿"]
+    },
+    {
+      "id": 6,
+      "title": "Bạn làm việc ở đâu",
+      "functions": ["Lần đầu gặp mặt; Hỏi và trả lời về tình hình công việc"],
+      "notes": ["Bộ vi, mộc, điền", "Chữ: 国, 果, 男, 留, 做"]
+    },
+    {
+      "id": 7,
+      "title": "Ngân hàng Trung Quốc ở đâu?",
+      "functions": ["Hỏi và chỉ đường"],
+      "notes": ["Bộ miên, nghiễm, thủ", "Chữ: 家, 店, 场, 知, 道"]
+    },
+    {
+      "id": 8,
+      "title": "Sinh nhật của bạn là ngày tháng nào?",
+      "functions": ["Hỏi và giới thiệu ngày sinh"],
+      "notes": ["Bộ thủy, nhật, mục", "Chữ: 漂, 晚, 看, 星, 号"]
+    },
+    {
+      "id": 9,
+      "title": "Bạn thích phim Mỹ hay phim Trung Quốc?",
+      "functions": ["Hỏi về sở thích"],
+      "notes": ["Trợ từ ngữ khí: 吧", "Chữ: 念、路、铁、喜、地"]
+    },
+    {
+      "id": 10,
+      "title": "Nhà bạn có mấy người?",
+      "functions": ["Hỏi và giới thiệu về người nhà; Hỏi về tuổi tác"],
+      "notes": ["Chữ: 照、狗、律、姐、妹"]
+    }
+  ]
+}
